@@ -17,6 +17,31 @@
         <e p="Program.cs" t="Include" />
       </e>
       <e p="instructions.sln" t="IncludeFlat" />
+      <e p="iteration" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="iteration.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="iteration.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="methodes" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Livre.cs" t="Include" />
+        <e p="methodes.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="methodes.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>

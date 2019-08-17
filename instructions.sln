@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iteration", "iteration\iter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodes", "methodes\methodes.csproj", "{78B4D31B-242E-4C03-9CAE-33AB33CE4F3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "surcharge", "surcharge\surcharge.csproj", "{BC44A80E-C6DF-403A-BC78-063BFAA67930}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{78B4D31B-242E-4C03-9CAE-33AB33CE4F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78B4D31B-242E-4C03-9CAE-33AB33CE4F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78B4D31B-242E-4C03-9CAE-33AB33CE4F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC44A80E-C6DF-403A-BC78-063BFAA67930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC44A80E-C6DF-403A-BC78-063BFAA67930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC44A80E-C6DF-403A-BC78-063BFAA67930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC44A80E-C6DF-403A-BC78-063BFAA67930}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

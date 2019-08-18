@@ -40,6 +40,7 @@ namespace methodes
 
             foreach (Livre livre in meslivres)
             {
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine(livre.ToString());
             }
         }
